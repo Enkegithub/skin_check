@@ -51,3 +51,4 @@ Flask-Cors: To handle cross-origin requests if the frontend and backend are host
 
 Dependencies
 pip install -r requirements.txt
+pip install -r
